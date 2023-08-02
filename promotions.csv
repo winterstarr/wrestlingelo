@@ -1,27 +1,27 @@
 promotion_id,name,active,start_year,end_year,abbreviation,location,names,owners,television_shows
-2,World Championship Wrestling,False,1988,2001,WCW,"Atlanta, Georgia, USA","World Championship Wrestling,","784,65","Monday NITRO/NITRO,Thunder,Clash Of The Champions,Saturday Night,World Championship Wrestling,Main Event,Worldwide/World Wide Wrestling,Pro/Pro Wrestling,Prime,Power Hour"
-8,Pro Wrestling NOAH,True,2000,,NOAH,"Tokyo, Japan","Pro Wrestling NOAH,","626,541",
-3,Extreme Championship Wrestling,False,1992,2001,ECW,"Philadelphia, Pennsylvania, USA","Extreme Championship Wrestling,Eastern Championship Wrestling,","664,3994","Hardcore TV,ECW on TNN"
-4,Ring Of Honor,True,2002,,ROH,"Baltimore, Maryland, USA","Ring Of Honor,","23407,2353","ROH on HonorClub,ROH Wrestling,ROH on HDNet"
+96,Dragongate Japan Pro-Wrestling,True,2004,,DG,"Kobe, Hyogo, Japan","Dragongate Japan Pro-Wrestling,Dragon Gate,",3742,
 118,DDT Pro Wrestling,True,1997,,DDT,"Tokyo, Japan","DDT Pro Wrestling,Dramatic Dream Team,","1749,1749,2070","TV Show!,Live! Maji Manji"
-1467,Tokyo Joshi Pro-Wrestling,True,2013,,TJPW,"Tokyo, Japan","Tokyo Joshi Pro-Wrestling,",,That's J-PW
-962,Revolution Pro Wrestling ,True,2012,,RevPro,"Sittingbourne, Kent, England, UK","Revolution Pro Wrestling ,",,RevPro TV
-32,Smoky Mountain Wrestling,False,1991,1995,SMW,"Morristown, Tennessee, USA","Smoky Mountain Wrestling,","837,4618,837,4618,4",SMW TV
-22,Major League Wrestling,True,2002,,MLW,"Orlando, Florida, USA","Major League Wrestling,Major League Wrestling,",5415,"Fusion,Underground/Underground Wrestling"
-1,World Wrestling Entertainment,True,1948,,WWE,"Stamford, Connecticut, USA","World Wrestling Entertainment,World Wrestling Federation,World Wide Wrestling Federation,National Wrestling Alliance Capitol Wrestling Federation,National Wrestling Alliance Capital Sports,","784,1399,1398,2842","Monday Night RAW/RAW is WAR/RAW,SmackDown/Thursday Night SmackDown/Friday Night SmackDown/SmackDown Live,NXT/NXT 2.0,NXT UK,NXT Level Up,205 Live,Main Event,Superstars,Tough Enough,ECW on Sci Fi/ECW on Syfy,Heat/Sunday Night Heat,Velocity,Jakked,Prime Time Wrestling,Saturday Night's Main Event,Super Astros,Challenge,All American Wrestling,Championship Wrestling,All-Star Wrestling/All Star Wrestling,MSG Network,Mania,Action Zone,Saturday Morning Slam,Shotgun Saturday Night"
-2287,All Elite Wrestling,True,2019,,AEW,"Jacksonville, Florida, USA","All Elite Wrestling,",23407,"Dynamite,Collision,Rampage,Dark,Dark: Elevation,Battle Of The Belts"
+3,Extreme Championship Wrestling,False,1992,2001,ECW,"Philadelphia, Pennsylvania, USA","Extreme Championship Wrestling,Eastern Championship Wrestling,","664,3994","Hardcore TV,ECW on TNN"
+78,Consejo Mundial De Lucha Libre,True,1933,,CMLL,"Mexico City, Distrito Federal, Mexiko","Consejo Mundial De Lucha Libre,Empresa Mexicana De La Lucha Libre,","8245,8112,8111","Titanes del Ring,Guerreros del Ring,CMLL on CadenaTres,CMLL on Fox Sports,CMLL on Televisa,CMLL on Teleformula,CMLL Puebla TV,CMLL Guadalajara TV"
 117,Big Japan Pro-Wrestling,True,1995,,BJW,"Yokohama, Kanagawa, Japan","Big Japan Pro-Wrestling,","11246,4147",
-903,PROGRESS Wrestling,True,2012,,PROGRESS,"London, England, UK","PROGRESS Wrestling,",,Freedom's Road
-710,Game Changer Wrestling,True,1999,,GCW,"New Jersey, USA","Game Changer Wrestling,Jersey Championship Wrestling,","12734,12734,1698,13119",
 122,Lucha Libre AAA World Wide,True,1992,,AAA,"Mexico City, Distrito Federal, Mexiko","Lucha Libre AAA World Wide,Asistencia Asesoria y Administracion,","8126,14154,8126,8602,14154,8259","Sin Limite,Fusion,Lucha Libre Premier"
+745,World Wonder Ring Stardom,True,2011,,Stardom,"Tokyo, Japan","World Wonder Ring Stardom,",4813,
+903,PROGRESS Wrestling,True,2012,,PROGRESS,"London, England, UK","PROGRESS Wrestling,",,Freedom's Road
 9,National Wrestling Alliance,True,1948,,NWA,USA,"National Wrestling Alliance,",16573,"High Voltage,Powerrr,The Circle Squared"
 7,New Japan Pro Wrestling,True,1972,,NJPW,"Tokyo, Japan","New Japan Pro Wrestling,","4200,90,5067,1096","STRONG,World Pro-Wrestling"
-96,Dragongate Japan Pro-Wrestling,True,2004,,DG,"Kobe, Hyogo, Japan","Dragongate Japan Pro-Wrestling,Dragon Gate,",3742,
+8,Pro Wrestling NOAH,True,2000,,NOAH,"Tokyo, Japan","Pro Wrestling NOAH,","626,541",
+2,World Championship Wrestling,False,1988,2001,WCW,"Atlanta, Georgia, USA","World Championship Wrestling,","784,65","Monday NITRO/NITRO,Thunder,Clash Of The Champions,Saturday Night,World Championship Wrestling,Main Event,Worldwide/World Wide Wrestling,Pro/Pro Wrestling,Prime,Power Hour"
+32,Smoky Mountain Wrestling,False,1991,1995,SMW,"Morristown, Tennessee, USA","Smoky Mountain Wrestling,","837,4618,837,4618,4",SMW TV
 41,American Wrestling Association,False,1933,1991,AWA,"Minneapolis, Minnesota, USA","American Wrestling Association,Minneapolis Boxing & Wrestling Club,","1133,3277,21855","Championship Wrestling,All Star Wrestling,AWA TV"
-745,World Wonder Ring Stardom,True,2011,,Stardom,"Tokyo, Japan","World Wonder Ring Stardom,",4813,
-5,Impact Wrestling,True,2002,,Impact Wrestling,"Nashville, Tennessee, USA","Impact Wrestling,Global Force Wrestling ,Impact Wrestling,Total Nonstop Action Wrestling,National Wrestling Alliance Total Nonstop Action,","6739,6739,16573,6739,6739,564,1556,564","IMPACT Wrestling/iMPACT,Xplosion,Before The Impact"
-62,World Class Wrestling Association,False,1940,1991,WCWA,"Dallas, Texas, USA","World Class Wrestling Association,World Class Championship Wrestling,NWA Big Time Wrestling,Southwest Sports,","1039,660,686,3141,20245",
 64,Universal Wrestling Federation,False,1953,1987,UWF,"Oklahoma City, Oklahoma, USA","Universal Wrestling Federation,Mid-South Wrestling,National Wrestling Alliance Tri-State,","4563,1303,3172","Mid-South Wrestling TV,MSW TV,UWF TV"
-78,Consejo Mundial De Lucha Libre,True,1933,,CMLL,"Mexico City, Distrito Federal, Mexiko","Consejo Mundial De Lucha Libre,Empresa Mexicana De La Lucha Libre,","8245,8112,8111","Titanes del Ring,Guerreros del Ring,CMLL on CadenaTres,CMLL on Fox Sports,CMLL on Televisa,CMLL on Teleformula,CMLL Puebla TV,CMLL Guadalajara TV"
 12,Pro Wrestling Guerrilla,True,2003,,PWG,"Los Angeles, California, USA","Pro Wrestling Guerrilla,","252,1045,1100,252,632,347,1045,573",
 6,All Japan Pro Wrestling,True,1972,,AJPW,"Tokyo, Japan","All Japan Pro Wrestling,","1001,258,19814,541,272",
+1467,Tokyo Joshi Pro-Wrestling,True,2013,,TJPW,"Tokyo, Japan","Tokyo Joshi Pro-Wrestling,",,That's J-PW
+1,World Wrestling Entertainment,True,1948,,WWE,"Stamford, Connecticut, USA","World Wrestling Entertainment,World Wrestling Federation,World Wide Wrestling Federation,National Wrestling Alliance Capitol Wrestling Federation,National Wrestling Alliance Capital Sports,","784,1399,1398,2842","Monday Night RAW/RAW is WAR/RAW,SmackDown/Thursday Night SmackDown/Friday Night SmackDown/SmackDown Live,NXT/NXT 2.0,NXT UK,NXT Level Up,205 Live,Main Event,Superstars,Tough Enough,ECW on Sci Fi/ECW on Syfy,Heat/Sunday Night Heat,Velocity,Jakked,Prime Time Wrestling,Saturday Night's Main Event,Super Astros,Challenge,All American Wrestling,Championship Wrestling,All-Star Wrestling/All Star Wrestling,MSG Network,Mania,Action Zone,Saturday Morning Slam,Shotgun Saturday Night"
+22,Major League Wrestling,True,2002,,MLW,"Orlando, Florida, USA","Major League Wrestling,Major League Wrestling,",5415,"Fusion,Underground/Underground Wrestling"
+2287,All Elite Wrestling,True,2019,,AEW,"Jacksonville, Florida, USA","All Elite Wrestling,",23407,"Dynamite,Collision,Rampage,Dark,Dark: Elevation,Battle Of The Belts"
+4,Ring Of Honor,True,2002,,ROH,"Baltimore, Maryland, USA","Ring Of Honor,","23407,2353","ROH on HonorClub,ROH Wrestling,ROH on HDNet"
+62,World Class Wrestling Association,False,1940,1991,WCWA,"Dallas, Texas, USA","World Class Wrestling Association,World Class Championship Wrestling,NWA Big Time Wrestling,Southwest Sports,","1039,660,686,3141,20245",
+962,Revolution Pro Wrestling ,True,2012,,RevPro,"Sittingbourne, Kent, England, UK","Revolution Pro Wrestling ,",,RevPro TV
+5,Impact Wrestling,True,2002,,Impact Wrestling,"Nashville, Tennessee, USA","Impact Wrestling,Global Force Wrestling ,Impact Wrestling,Total Nonstop Action Wrestling,National Wrestling Alliance Total Nonstop Action,","6739,6739,16573,6739,6739,564,1556,564","IMPACT Wrestling/iMPACT,Xplosion,Before The Impact"
+710,Game Changer Wrestling,True,1999,,GCW,"New Jersey, USA","Game Changer Wrestling,Jersey Championship Wrestling,","12734,12734,1698,13119",
